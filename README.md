@@ -1,6 +1,8 @@
 # My solution of ud120 course final project
 ## Info about the project
-The goal of the project to make a classifier to that classifies POI(person of interest) in [Enron](https://en.wikipedia.org/wiki/Enron)
+The goal of the project to make a classifier that classifies POI(person of interest) in [Enron](https://en.wikipedia.org/wiki/Enron)
+
+# [Open the Notebook](https://github.com/moaaztaha/ud120-final_project/blob/master/Udacity_Final_Project_1.ipynb)
 
 ## Done
 - [x] Feature Selection
