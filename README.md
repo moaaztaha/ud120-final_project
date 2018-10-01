@@ -15,3 +15,4 @@ The goal of the project to make a classifier that classifies POI(person of inter
 - [x] use imputation if possible instead of zeros (nothing changed)
 - [x] try other classifiers (less accurate results
 - [ ] use a multi-stage operations
+- [ ] put the final version of the project
